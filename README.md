@@ -47,5 +47,5 @@ le pendule (oscillations d'amplitude croissante), bascule vers le LQR dès l'ent
 zone de capture, puis stabilise conjointement φ et x vers 0 — sans jamais dépasser la
 contrainte de course du rail (±0,4 m).
 
-Voir Pendule_inverse_LQR_swingup.pdf pour le
+Voir docs/Pendule_inverse_LQR_swingup.pdf pour le
 rapport complet (équations, architecture Simulink, courbes).
